@@ -1,0 +1,29 @@
+<svg width="100%" viewBox="0 0 174 757" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Group 3</title>
+	<defs>
+		<filter x="-25.8%" y="-12.8%" width="151.6%" height="125.6%" filterUnits="objectBoundingBox" id="filter-1">
+			<feGaussianBlur stdDeviation="0 14" in="SourceGraphic"></feGaussianBlur>
+		</filter>
+		<filter x="-25.8%" y="-12.8%" width="151.6%" height="125.6%" filterUnits="objectBoundingBox" id="filter-2">
+			<feGaussianBlur stdDeviation="0 14" in="SourceGraphic"></feGaussianBlur>
+		</filter>
+		<filter x="-12.8%" y="-25.7%" width="125.6%" height="151.5%" filterUnits="objectBoundingBox" id="filter-3">
+			<feGaussianBlur stdDeviation="0 14" in="SourceGraphic"></feGaussianBlur>
+		</filter>
+		<filter x="-12.8%" y="-25.7%" width="125.6%" height="151.5%" filterUnits="objectBoundingBox" id="filter-4">
+			<feGaussianBlur stdDeviation="0 14" in="SourceGraphic"></feGaussianBlur>
+		</filter>
+	</defs>
+	<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+		<g id="ecosystem" transform="translate(-1266.000000, -1900.000000)" fill="#152B38">
+			<g id="Group-7" transform="translate(-111.000000, 1941.000000)">
+				<g id="Group-3" transform="translate(1378.361858, 0.000000)">
+					<path d="M165.403423,327.586592 C255.368693,327.586592 328.300733,254.254092 328.300733,163.793296 C328.300733,73.3325 255.368693,0 165.403423,0 L165.403423,327.586592 Z" id="Path" filter="url(#filter-1)" transform="translate(246.852078, 163.793296) scale(-1, 1) translate(-246.852078, -163.793296) "></path>
+					<path d="M165.403423,0 C75.4381534,0 2.50611247,73.3325 2.50611247,163.793296 C2.50611247,254.254092 75.4381534,327.586592 165.403423,327.586592 L165.403423,0 Z" id="Path" filter="url(#filter-2)" transform="translate(83.954768, 163.793296) scale(-1, 1) translate(-83.954768, -163.793296) "></path>
+					<path d="M328.300733,674 C328.300733,583.885797 254.807677,510.834264 164.150367,510.834264 C73.4930566,510.834264 0,583.885797 0,674 L328.300733,674 Z" id="Path" filter="url(#filter-3)" transform="translate(164.150367, 592.417132) scale(-1, 1) translate(-164.150367, -592.417132) "></path>
+					<path d="M0,346.413408 C0,436.527611 73.4930566,509.579143 164.150367,509.579143 C254.807677,509.579143 328.300733,436.527611 328.300733,346.413408 L0,346.413408 Z" id="Path" filter="url(#filter-4)" transform="translate(164.150367, 427.996276) scale(-1, 1) translate(-164.150367, -427.996276) "></path>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

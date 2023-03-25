@@ -1,0 +1,22 @@
+<svg class="about_section_content__decor_mob" viewBox="0 0 609 512" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin slice" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+<defs>
+	<filter x="-6.2%" y="-6.2%" width="112.4%" height="112.3%" filterUnits="objectBoundingBox" id="filter-2">
+		<feGaussianBlur stdDeviation="10 0" in="SourceGraphic"></feGaussianBlur>
+	</filter>
+</defs>
+	<style>
+		.st01 {fill-rule:evenodd;clip-rule:evenodd;fill:#F2F2F2;fill-opacity:0.1;}
+	</style>
+<g id="Page-1">
+	<g id="mob-philosophy" transform="translate(34.000000, -1964.000000)">
+		<g id="Group" transform="translate(0.000000, 1998.000000)">
+			<path id="Combined-Shape4" class="st01" d="M230.6-34c0,72.6-59.2,131.5-132.3,131.5S-34,38.6-34-34H230.6z"/>
+			<path id="Combined-Shape2" class="st01" d="M98.7,246c73.1,0,132.3,59.1,132.3,132S171.8,510,98.7,510S-33.6,450.9-33.6,378
+				S25.7,246,98.7,246z M507.4,246.3c0,70-54.9,127.2-124.2,131.3c69,4.3,123.7,61.4,123.7,131.2h-264c0-70,54.9-127.2,124.2-131.3
+				c-69-4.3-123.7-61.4-123.7-131.2H507.4z M244.1-34c72.6,0,131.5,59.1,131.5,132s-58.9,132-131.5,132V-34z M507.1-34v264
+				c-72.6,0-131.5-59.1-131.5-132S434.5-34,507.1-34z M98.3,97.6c73.1,0,132.3,58.9,132.3,131.6H-34C-34,156.5,25.2,97.6,98.3,97.6z
+				" filter="url(#filter-2)"/>
+		</g>
+	</g>
+</g>
+</svg>

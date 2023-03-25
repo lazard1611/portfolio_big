@@ -1,0 +1,14 @@
+<svg class="about_section_content__decor aboutBlur" viewBox="0 0 1200 325" preserveAspectRatio="xMinYMin slice" version="1.1" xmlns="http://www.w3.org/2000/svg"  style="enable-background:new 0 0 1208.5 332.5" xml:space="preserve">
+  <style>
+    .st1{fill-rule:evenodd;clip-rule:evenodd;fill:#f2f2f2}
+  </style>
+    <defs>
+        <filter x="-4.1%" y="-12.7%" width="108.1%" height="125.4%" filterUnits="objectBoundingBox" id="filter-p">
+            <feGaussianBlur stdDeviation="0 0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+  <g style="opacity:.1">
+    <path class="st1" filter="url(#filter-p)" d="M826-42c91.7 0 166 74.1 166 165.5S917.7 289 826 289s-166-74.1-166-165.5S734.3-42 826-42zm-519 0c91.1 0 165 74.1 165 165.5S398.1 289 307 289V-42zm330 0v331c-91.1 0-165-74.1-165-165.5S545.9-42 637-42zM124 123c91.7 0 166 73.9 166 165H-42c0-91.1 74.3-165 166-165z"/>
+    <path class="st1" d="M1166.5-41.5v332c-91.1 0-165-74.3-165-166s73.9-166 165-166zM295-42c0 91.1-74.3 165-166 165S-37 49.1-37-42h332z"/>
+  </g>
+</svg>

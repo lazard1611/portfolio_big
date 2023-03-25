@@ -1,0 +1,35 @@
+<svg viewBox="0 0 218 754" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Group</title>
+	<defs>
+		<filter x="-25.8%" y="-12.8%" width="151.6%" height="125.6%" filterUnits="objectBoundingBox" id="filter-1">
+			<feGaussianBlur stdDeviation="0 14" in="SourceGraphic"></feGaussianBlur>
+		</filter>
+		<filter x="-25.8%" y="-12.8%" width="151.6%" height="125.6%" filterUnits="objectBoundingBox" id="filter-2">
+			<feGaussianBlur stdDeviation="0 14" in="SourceGraphic"></feGaussianBlur>
+		</filter>
+		<linearGradient x1="59.8314832%" y1="43.8485043%" x2="17.7679267%" y2="54.8789179%" id="linearGradient-3">
+			<stop stop-color="#45A78F" offset="0%"></stop>
+			<stop stop-color="#58B388" offset="100%"></stop>
+		</linearGradient>
+		<filter x="-12.8%" y="-25.7%" width="125.6%" height="151.5%" filterUnits="objectBoundingBox" id="filter-4">
+			<feGaussianBlur stdDeviation="0 14" in="SourceGraphic"></feGaussianBlur>
+		</filter>
+		<linearGradient x1="61.8556968%" y1="42.0387996%" x2="8.9810404%" y2="53.541758%" id="linearGradient-5">
+			<stop stop-color="#45A78F" offset="0%"></stop>
+			<stop stop-color="#67BD84" offset="100%"></stop>
+		</linearGradient>
+		<filter x="-12.8%" y="-25.7%" width="125.6%" height="151.5%" filterUnits="objectBoundingBox" id="filter-6">
+			<feGaussianBlur stdDeviation="0 14" in="SourceGraphic"></feGaussianBlur>
+		</filter>
+	</defs>
+	<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+		<g id="ecosystem" transform="translate(0.000000, -1900.000000)">
+			<g id="Group" transform="translate(-111.000000, 1941.000000)">
+				<path d="M165.403423,327.586592 C255.368693,327.586592 328.300733,254.254092 328.300733,163.793296 C328.300733,73.3325 255.368693,0 165.403423,0 L165.403423,327.586592 Z" id="Path" fill="#45A78F" filter="url(#filter-1)" transform="translate(246.852078, 163.793296) scale(-1, 1) translate(-246.852078, -163.793296) "></path>
+				<path d="M165.403423,0 C75.4381534,0 2.50611247,73.3325 2.50611247,163.793296 C2.50611247,254.254092 75.4381534,327.586592 165.403423,327.586592 L165.403423,0 Z" id="Path" fill="#45A78F" filter="url(#filter-2)" transform="translate(83.954768, 163.793296) scale(-1, 1) translate(-83.954768, -163.793296) "></path>
+				<path d="M328.300733,671.489758 C328.300733,581.375555 254.807677,508.324022 164.150367,508.324022 C73.4930566,508.324022 0,581.375555 0,671.489758 L328.300733,671.489758 Z" id="Path" fill="url(#linearGradient-3)" filter="url(#filter-4)" transform="translate(164.150367, 589.906890) scale(-1, 1) translate(-164.150367, -589.906890) "></path>
+				<path d="M0,346.413408 C0,436.527611 73.4930566,509.579143 164.150367,509.579143 C254.807677,509.579143 328.300733,436.527611 328.300733,346.413408 L0,346.413408 Z" id="Path" fill="url(#linearGradient-5)" filter="url(#filter-6)" transform="translate(164.150367, 427.996276) scale(-1, 1) translate(-164.150367, -427.996276) "></path>
+			</g>
+		</g>
+	</g>
+</svg>
